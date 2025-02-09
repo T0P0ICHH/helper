@@ -19,7 +19,7 @@ What does it includes?
 <p>-Uninstall Tool (Cr3cked)</p>
 <p>-All versions of VC Redist</p>
 <p>-VirusTotal App</p>
-(image)[https://i.ibb.co/5gq6MB3L/image.png]
+[image](https://i.ibb.co/5gq6MB3L/image.png)
 
 For these files you will need to disable anitvirus because there is: Crack and Keygen.
 

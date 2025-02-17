@@ -1,5 +1,3 @@
-# HELPER IS COMING OUT SOON! 
-
 # Helper - Let's get started
 Helper is repo that includes a lot of apps that can help your PC!
 
